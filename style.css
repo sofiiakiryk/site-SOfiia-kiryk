@@ -1,0 +1,254 @@
+* {
+  margin: 0px;
+  padding: 0px;
+  font-family: "Poppins", sans-serif;
+}
+.hadder {
+  background-image: url("hector-j-rivas-1FxMET2U5dU-unsplash.jpg");
+  height: 100vh;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+}
+.wrapper {
+  height: 100%;
+  margin: auto;
+  max-width: 1400px;
+}
+.logo {
+  text-transform: uppercase;
+  color: rgb(255, 255, 255);
+  display: block;
+  margin-top: 20px;
+}
+
+.first {
+  text-decoration: none;
+  color: rgb(255, 255, 255);
+  margin-right: 20px;
+  display: inline-block;
+}
+.second {
+  text-decoration: none;
+  color: rgb(255, 255, 255);
+  margin-right: 20px;
+  display: inline-block;
+}
+.third {
+  text-decoration: none;
+  color: rgb(255, 255, 255);
+  margin-right: 20px;
+  display: inline-block;
+}
+.four {
+  text-decoration: none;
+  color: rgb(255, 255, 255);
+  margin-right: 20px;
+  display: inline-block;
+  margin-top: 20px;
+}
+.five {
+  text-decoration: none;
+  color: rgb(255, 255, 255);
+  margin-right: 10px;
+  display: inline;
+}
+.about {
+  height: 600px;
+  text-align: center;
+  font-family: "Roboto", sans-serif;
+
+  align-items: center;
+}
+.txt {
+  width: 500px;
+  margin: auto;
+  align-items: center;
+  text-align: center;
+}
+.blox {
+  display: flex;
+  justify-content: center;
+}
+.prodjects {
+  height: 100vh;
+  background-color: black;
+  text-align: center;
+  padding-top: 40px;
+  box-sizing: border-box;
+}
+* {
+  margin: 0px;
+  padding: 0px;
+}
+.prodjectstitle {
+  color: antiquewhite;
+  text-transform: uppercase;
+  font-size: 50px;
+}
+.wrappertree {
+  max-width: 1000px;
+  margin: auto;
+}
+.prodjectone {
+  width: 500px;
+  height: 500px;
+}
+.servises {
+  height: 100vh;
+}
+.wrapper {
+  margin: auto;
+  width: 1100px;
+}
+.servicestext {
+  margin-bottom: 50px;
+  font-size: 18px;
+}
+.servisescontainer {
+  display: flex;
+  justify-content: space-between;
+}
+.servicesleft {
+  width: 400px;
+}
+.serviceslink {
+  text-decoration: none;
+  padding: 20px 30px;
+  color: bisque;
+  background-color: black;
+  display: inline-block;
+}
+.title-second {
+  text-transform: uppercase;
+  font-size: 50px;
+  width: 200px;
+  margin-top: 60px;
+  text-align: center;
+  margin-bottom: 20px;
+}
+.servicesright {
+  font-size: 30px;
+  list-style: none;
+  margin-top: 60px;
+}
+.servicesiteam {
+  margin-bottom: 40px;
+}
+.iteam {
+  width: 400px;
+  margin-right: 70px;
+  margin-top: 60px;
+  text-transform: uppercase;
+  font-size: 60px;
+}
+.iteamtext {
+  width: 100%;
+  height: 300px;
+  object-fit: cover;
+}
+.galerey {
+  display: flex;
+  gap: 20px;
+}
+.iteamone {
+  width: 150px;
+  height: 300px;
+  object-fit: cover;
+}
+.prodjectone {
+  width: 500;
+  height: 300px;
+  object-fit: cover;
+}
+.galereyiteam {
+  width: 100%;
+  height: 300px;
+  object-fit: cover;
+}
+.galereytext {
+  color: azure;
+}
+.iteamone {
+  width: 100%;
+  height: 200px;
+  object-fit: cover;
+}
+.menu {
+  display: flex;
+  justify-content: space-between;
+}
+.hadder-text {
+  color: white;
+  font-size: 60px;
+  text-align: center;
+  margin: auto;
+  margin-top: 150px;
+  margin-bottom: 60px;
+}
+.hadder-buttom {
+  text-decoration: none;
+  color: black;
+  padding: 20px 40px;
+  background-color: white;
+  margin-left: 500px;
+}
+.title {
+  text-transform: uppercase;
+  font-size: 50px;
+  width: 350px;
+  text-align: center;
+  margin: auto;
+  margin-top: 200px;
+}
+.body-buttom {
+  padding: 15px 30px;
+  text-decoration: none;
+  color: white;
+  background-color: black;
+}
+.txt {
+  margin-bottom: 50px;
+}
+.wrapper {
+  height: 500px;
+}
+.text {
+  text-transform: uppercase;
+  font-size: 60px;
+}
+.page {
+  height: 100vh;
+  box-sizing: border-box;
+  display: flex;
+}
+.pageleft {
+  width: 45%;
+  height: 100%;
+  background-image: url("traf-sL7w1eUfHJQ-unsplash.jpg");
+  background-size: cover;
+  background-position: center;
+}
+.pageright {
+  width: 55%;
+  height: 100%;
+  align-items: center;
+  display: flex;
+  justify-content: center;
+  text-align: center;
+  flex-direction: column;
+}
+
+.price {
+  font-size: 20px;
+  font-weight: 250px;
+  margin-bottom: 20px;
+}
+.buttom {
+  margin-top: 40px;
+  padding: 15px 45px 15px 45px;
+  text-decoration: none;
+  background-color: rgb(0, 0, 0);
+  color: antiquewhite;
+  text-align: center;
+}
